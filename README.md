@@ -36,3 +36,13 @@ git push origin -d 1.0.3-RELEASE
 3. merge develop
 4. tag 1.0+
 5. push
+
+---
+
+1. 拉取tag
+2. checkout -b feature/1.0.5
+3. 修改内容
+4. add .  commit
+5. push orin feature/1.0.5
+6. git tag 1.0.5
+7. git push origin 1.0.5
