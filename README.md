@@ -18,4 +18,4 @@ git checkout -b 分支名
 git merge 分支名
 合并分支
 
-git 
+git tag
