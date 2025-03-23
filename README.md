@@ -27,3 +27,12 @@ git tag 步骤
 删除tag 本地/云端
 git tag -d 1.0.3-RELEASE
 git push origin -d 1.0.3-RELEASE
+
+
+---
+
+1. 拉取tag 
+2. 修改内容
+3. merge develop
+4. tag 1.0+
+5. push
