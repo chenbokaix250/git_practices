@@ -18,4 +18,21 @@ git checkout -b 分支名
 git merge 分支名
 合并分支
 
-git tag
+git tag 步骤
+1. 先拉去 `git checkout 1.0.2-RELEASE`
+2. 修改内容标签
+3. 打tag `git tag 1.0.3-RELEASE`
+4. 推动tag `git push origin 1.0.3-RELEASE`
+
+删除tag 本地/云端
+git tag -d 1.0.3-RELEASE
+git push origin -d 1.0.3-RELEASE
+
+
+---
+
+1. 拉取tag 
+2. 修改内容
+3. merge develop
+4. tag 1.0+
+5. push
