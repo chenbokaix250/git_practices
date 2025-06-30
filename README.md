@@ -80,3 +80,13 @@ solve it!!!
 
 
 ## conflict 4
+
+git push --rebase
+
+git rebase --continue
+git add .
+git checkout main
+git push
+
+
+
