@@ -65,3 +65,14 @@ time to solve
 
 
 ## conflict 3
+
+git pull --rebase
+git rebase --continue
+git rebase --continue
+git checkout main
+git push
+
+
+
+
+
