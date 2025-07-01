@@ -100,3 +100,5 @@ solve
 
 
 1. git stash
+
+stash 是暂存
