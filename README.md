@@ -103,3 +103,9 @@ solve
 
 stash 是暂存
 2. git pull
+
+
+
+
+
+这里测试打patch提交解决冲突
