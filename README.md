@@ -102,3 +102,4 @@ solve
 1. git stash
 
 stash 是暂存
+2. git pull
