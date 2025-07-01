@@ -100,12 +100,12 @@ solve
 
 
 1. git stash
-
 stash 是暂存
-2. git pull
+2. git pull --no-rebase
+解决冲突后 push
 
+---
 
+# 打patch
 
-
-
-这里测试打patch提交解决冲突
+git diff > 1.patch
