@@ -85,6 +85,7 @@ git push --rebase
 
 git rebase --continue
 git add .
+git rebase --continue
 git checkout main
 git push
 
@@ -98,3 +99,4 @@ solve
 ## no rebase
 
 
+1. git stash
