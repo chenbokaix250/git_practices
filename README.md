@@ -100,3 +100,4 @@ solve
 
 
 1. git stash
+2. git pull
