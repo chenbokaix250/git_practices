@@ -109,3 +109,6 @@ stash 是暂存
 # 打patch
 
 git diff > 1.patch
+
+
+ams coding ok !
