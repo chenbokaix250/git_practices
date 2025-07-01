@@ -142,3 +142,5 @@ path的使用方法
 git diff > 1.patch
 
 test patch
+
+git diff > change.patch
