@@ -116,3 +116,20 @@ ams coding ok !
 # pms push
 
 pms push again
+
+ams coding
+
+---
+
+解决冲突分两种:
+
+1. commit打了之后 
+    * git pull --no-rebase
+    * 解决冲突
+    * 重新git add 
+    * 重新打commit
+2. commit打之前
+    * git stash
+    * git pull
+    * git stash apply
+    * 解决冲突
