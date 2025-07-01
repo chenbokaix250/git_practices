@@ -112,3 +112,6 @@ git diff > 1.patch
 
 
 ams coding ok !
+
+# pms push
+
