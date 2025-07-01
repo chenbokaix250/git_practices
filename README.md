@@ -133,3 +133,10 @@ ams coding
     * git pull
     * git stash apply
     * 解决冲突
+    * add + push
+
+---
+
+path的使用方法 
+
+git diff > 1.patch
