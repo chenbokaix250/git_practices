@@ -144,13 +144,3 @@ git diff > 1.patch
 test patch
 
 git diff > change.patch
-
-
----
-
-
-patch 使用 2 
-
-int patch(){
-    
-}
